@@ -1,5 +1,5 @@
 # odin-recipes
 
-The Odin Project\n
-Foundations Course\n
+The Odin Project<br>
+Foundations Course<br>
 Project: Recipes

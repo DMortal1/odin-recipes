@@ -1,4 +1,4 @@
-# The Odin Project &#8594 Foundations Course &#8594 Project: Recipes
+# The Odin Project ⟶ Foundations Course ⟶ Project: Recipes
 The Odin Project<br>
 Foundations Course<br>
 Project: Recipes<br>
